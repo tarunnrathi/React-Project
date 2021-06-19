@@ -1,0 +1,13 @@
+.MuiAppBar-colorPrimary
+{
+    color: #fff;
+    background-color: #3c8dbc !important ;
+}
+
+.logo {
+    background-color: #367fa9;
+    color: #fff;
+    border-bottom: 0 solid transparent;
+    margin-bottom: 0px;
+    padding: 6px;
+}

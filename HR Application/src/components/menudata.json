@@ -1,0 +1,588 @@
+{
+    "MainMenuList": [
+      {
+        "ID": "14",
+        "MenuName": "Store",
+        "SubMenu": [
+          {
+            "ID": "15",
+            "MenuName": "Stock Consumption",
+            "SubMenu": null,
+            "Viwe_Index": null
+          },
+          {
+            "ID": "16",
+            "MenuName": "Material Requisition",
+            "SubMenu": null,
+            "Viwe_Index": null
+          },
+          {
+            "ID": "17",
+            "MenuName": "Requisition Approval",
+            "SubMenu": null,
+            "Viwe_Index": null
+          },
+          {
+            "ID": "25",
+            "MenuName": "Stock Statement",
+            "SubMenu": null,
+            "Viwe_Index": null
+          },
+          {
+            "ID": "27",
+            "MenuName": "Material Master Approval",
+            "SubMenu": null,
+            "Viwe_Index": null
+          },
+          {
+            "ID": "28",
+            "MenuName": "A/c Ledger Approval",
+            "SubMenu": null,
+            "Viwe_Index": null
+          },
+          {
+            "ID": "63",
+            "MenuName": "Ward Stock Ledger (Medicine)",
+            "SubMenu": null,
+            "Viwe_Index": null
+          },
+          {
+            "ID": "64",
+            "MenuName": "Requisition Wise Sale Report",
+            "SubMenu": null,
+            "Viwe_Index": null
+          },
+          {
+            "ID": "65",
+            "MenuName": "Material Set Search",
+            "SubMenu": null,
+            "Viwe_Index": null
+          },
+          {
+            "ID": "66",
+            "MenuName": "Material Set Issue",
+            "SubMenu": null,
+            "Viwe_Index": null
+          },
+          {
+            "ID": "67",
+            "MenuName": "Material Set Receive",
+            "SubMenu": null,
+            "Viwe_Index": null
+          },
+          {
+            "ID": "68",
+            "MenuName": "Material Set Return",
+            "SubMenu": null,
+            "Viwe_Index": null
+          },
+          {
+            "ID": "70",
+            "MenuName": "Expiry After Report",
+            "SubMenu": null,
+            "Viwe_Index": null
+          },
+          {
+            "ID": "75",
+            "MenuName": "Material Receive Ack",
+            "SubMenu": null,
+            "Viwe_Index": null
+          },
+          {
+            "ID": "85",
+            "MenuName": "Stock Consumption Search",
+            "SubMenu": null,
+            "Viwe_Index": null
+          }
+        ],
+        "Viwe_Index": null
+      },
+      {
+        "ID": "18",
+        "MenuName": "Nursing Station",
+        "SubMenu": [
+          {
+            "ID": "19",
+            "MenuName": "DashBoard",
+            "SubMenu": null,
+            "Viwe_Index": null
+          },
+          {
+            "ID": "20",
+            "MenuName": "Ward View",
+            "SubMenu": null,
+            "Viwe_Index": null
+          },
+          {
+            "ID": "77",
+            "MenuName": "Upload IPD Document",
+            "SubMenu": null,
+            "Viwe_Index": null
+          },
+          {
+            "ID": "78",
+            "MenuName": "IPD Document Report",
+            "SubMenu": null,
+            "Viwe_Index": null
+          },
+          {
+            "ID": "79",
+            "MenuName": "Document Movement",
+            "SubMenu": null,
+            "Viwe_Index": null
+          },
+          {
+            "ID": "81",
+            "MenuName": "Movement Report",
+            "SubMenu": null,
+            "Viwe_Index": null
+          },
+          {
+            "ID": "82",
+            "MenuName": "Lab Critical Report",
+            "SubMenu": null,
+            "Viwe_Index": null
+          },
+          {
+            "ID": "86",
+            "MenuName": "Medicine Credit Limit",
+            "SubMenu": null,
+            "Viwe_Index": null
+          },
+          {
+            "ID": "89",
+            "MenuName": "IPD Glucometer Report",
+            "SubMenu": null,
+            "Viwe_Index": null
+          },
+          {
+            "ID": "90",
+            "MenuName": "Patient Covid Detail",
+            "SubMenu": null,
+            "Viwe_Index": null
+          },
+          {
+            "ID": "91",
+            "MenuName": "IPD Document Category Wise",
+            "SubMenu": null,
+            "Viwe_Index": null
+          },
+          {
+            "ID": "92",
+            "MenuName": "Covid Lab Report",
+            "SubMenu": null,
+            "Viwe_Index": null
+          },
+          {
+            "ID": "93",
+            "MenuName": "Patient Covid-19",
+            "SubMenu": null,
+            "Viwe_Index": null
+          },
+          {
+            "ID": "94",
+            "MenuName": "Patient Handing Over Ward Wise Report",
+            "SubMenu": null,
+            "Viwe_Index": null
+          }
+        ],
+        "Viwe_Index": null
+      },
+      {
+        "ID": "22",
+        "MenuName": "Gate",
+        "SubMenu": [
+          {
+            "ID": "23",
+            "MenuName": "Employee Gate Entry",
+            "SubMenu": null,
+            "Viwe_Index": null
+          },
+          {
+            "ID": "24",
+            "MenuName": "Goods Gate Entry",
+            "SubMenu": null,
+            "Viwe_Index": null
+          },
+          {
+            "ID": "26",
+            "MenuName": "Goods Gate Pass",
+            "SubMenu": null,
+            "Viwe_Index": null
+          },
+          {
+            "ID": "38",
+            "MenuName": "Gate Entry Register",
+            "SubMenu": null,
+            "Viwe_Index": null
+          }
+        ],
+        "Viwe_Index": null
+      },
+      {
+        "ID": "29",
+        "MenuName": "Machine",
+        "SubMenu": [
+          {
+            "ID": "30",
+            "MenuName": "Consultant",
+            "SubMenu": null,
+            "Viwe_Index": null
+          },
+          {
+            "ID": "31",
+            "MenuName": "Machine Mast",
+            "SubMenu": null,
+            "Viwe_Index": null
+          },
+          {
+            "ID": "32",
+            "MenuName": "Department Mast",
+            "SubMenu": null,
+            "Viwe_Index": null
+          },
+          {
+            "ID": "33",
+            "MenuName": "Type Mast",
+            "SubMenu": null,
+            "Viwe_Index": null
+          },
+          {
+            "ID": "34",
+            "MenuName": "Registration & QA Details",
+            "SubMenu": null,
+            "Viwe_Index": null
+          }
+        ],
+        "Viwe_Index": null
+      },
+      {
+        "ID": "3",
+        "MenuName": "HIS",
+        "SubMenu": [
+          {
+            "ID": "11",
+            "MenuName": "Monthly Business",
+            "SubMenu": [
+              {
+                "ID": "12",
+                "MenuName": "OPD Collection Summary",
+                "SubMenu": null,
+                "Viwe_Index": null
+              },
+              {
+                "ID": "13",
+                "MenuName": "IPD Collection Summary",
+                "SubMenu": null,
+                "Viwe_Index": null
+              }
+            ],
+            "Viwe_Index": null
+          },
+          {
+            "ID": "21",
+            "MenuName": "Monthly Business (Specialization)",
+            "SubMenu": null,
+            "Viwe_Index": null
+          },
+          {
+            "ID": "35",
+            "MenuName": "Monthly Business (Doctor)",
+            "SubMenu": null,
+            "Viwe_Index": null
+          },
+          {
+            "ID": "39",
+            "MenuName": "Consultant Statement Mail",
+            "SubMenu": null,
+            "Viwe_Index": null
+          },
+          {
+            "ID": "41",
+            "MenuName": "IPD List Bed Category Wise Report",
+            "SubMenu": null,
+            "Viwe_Index": null
+          },
+          {
+            "ID": "46",
+            "MenuName": "Surgery Report",
+            "SubMenu": null,
+            "Viwe_Index": null
+          },
+          {
+            "ID": "47",
+            "MenuName": "HMS MIS Report",
+            "SubMenu": [
+              {
+                "ID": "95",
+                "MenuName": "abcd",
+                "SubMenu": [
+                  {
+                    "ID": "96",
+                    "MenuName": "pqrs",
+                    "SubMenu": [
+                      {
+                        "ID": "97",
+                        "MenuName": "wxyz",
+                        "SubMenu": null,
+                        "Viwe_Index": "0"
+                      }
+                    ],
+                    "Viwe_Index": null
+                  }
+                ],
+                "Viwe_Index": null
+              }
+            ],
+            "Viwe_Index": null
+          },
+          {
+            "ID": "48",
+            "MenuName": "IPD Scan Document Print",
+            "SubMenu": null,
+            "Viwe_Index": null
+          },
+          {
+            "ID": "49",
+            "MenuName": "SMS Entry",
+            "SubMenu": null,
+            "Viwe_Index": null
+          },
+          {
+            "ID": "50",
+            "MenuName": "SMS Report",
+            "SubMenu": null,
+            "Viwe_Index": null
+          },
+          {
+            "ID": "51",
+            "MenuName": "SMS Entry Status",
+            "SubMenu": null,
+            "Viwe_Index": null
+          },
+          {
+            "ID": "6",
+            "MenuName": "HIS DashBoard",
+            "SubMenu": null,
+            "Viwe_Index": null
+          },
+          {
+            "ID": "69",
+            "MenuName": "Business Report",
+            "SubMenu": null,
+            "Viwe_Index": null
+          },
+          {
+            "ID": "71",
+            "MenuName": "Admitted H1N1 Report",
+            "SubMenu": null,
+            "Viwe_Index": null
+          },
+          {
+            "ID": "72",
+            "MenuName": "Report by Test Name",
+            "SubMenu": null,
+            "Viwe_Index": null
+          },
+          {
+            "ID": "73",
+            "MenuName": "Chemist Sales Report",
+            "SubMenu": null,
+            "Viwe_Index": null
+          },
+          {
+            "ID": "74",
+            "MenuName": "Bills By Employee",
+            "SubMenu": null,
+            "Viwe_Index": null
+          },
+          {
+            "ID": "83",
+            "MenuName": "OPD Scan Document Print",
+            "SubMenu": null,
+            "Viwe_Index": null
+          },
+          {
+            "ID": "84",
+            "MenuName": "Bill Tracker",
+            "SubMenu": null,
+            "Viwe_Index": null
+          },
+          {
+            "ID": "87",
+            "MenuName": "Asset Document",
+            "SubMenu": null,
+            "Viwe_Index": null
+          },
+          {
+            "ID": "88",
+            "MenuName": "Online Payment Status",
+            "SubMenu": null,
+            "Viwe_Index": null
+          }
+        ],
+        "Viwe_Index": null
+      },
+      {
+        "ID": "36",
+        "MenuName": "Cardiology",
+        "SubMenu": [
+          {
+            "ID": "37",
+            "MenuName": "Cardiology Intervention",
+            "SubMenu": null,
+            "Viwe_Index": null
+          }
+        ],
+        "Viwe_Index": null
+      },
+      {
+        "ID": "4",
+        "MenuName": "Pharmacy",
+        "SubMenu": [
+          {
+            "ID": "40",
+            "MenuName": "Pharmacy DashBoard ",
+            "SubMenu": null,
+            "Viwe_Index": null
+          },
+          {
+            "ID": "42",
+            "MenuName": "Purchase Data",
+            "SubMenu": null,
+            "Viwe_Index": null
+          },
+          {
+            "ID": "43",
+            "MenuName": "Purchase Return Data",
+            "SubMenu": null,
+            "Viwe_Index": null
+          },
+          {
+            "ID": "44",
+            "MenuName": "Sales Data",
+            "SubMenu": null,
+            "Viwe_Index": null
+          },
+          {
+            "ID": "45",
+            "MenuName": "Sales Retrun Data",
+            "SubMenu": null,
+            "Viwe_Index": null
+          },
+          {
+            "ID": "7",
+            "MenuName": "Drug Master Data",
+            "SubMenu": null,
+            "Viwe_Index": null
+          }
+        ],
+        "Viwe_Index": null
+      },
+      {
+        "ID": "5",
+        "MenuName": "System Control",
+        "SubMenu": [
+          {
+            "ID": "10",
+            "MenuName": "Site Master",
+            "SubMenu": null,
+            "Viwe_Index": null
+          },
+          {
+            "ID": "76",
+            "MenuName": "Control Permission",
+            "SubMenu": null,
+            "Viwe_Index": null
+          },
+          {
+            "ID": "8",
+            "MenuName": "User Master",
+            "SubMenu": null,
+            "Viwe_Index": null
+          },
+          {
+            "ID": "80",
+            "MenuName": "Movement Permission",
+            "SubMenu": null,
+            "Viwe_Index": null
+          },
+          {
+            "ID": "9",
+            "MenuName": "Role Management",
+            "SubMenu": null,
+            "Viwe_Index": null
+          }
+        ],
+        "Viwe_Index": null
+      },
+      {
+        "ID": "52",
+        "MenuName": "Document",
+        "SubMenu": [
+          {
+            "ID": "53",
+            "MenuName": "Company Master",
+            "SubMenu": null,
+            "Viwe_Index": null
+          },
+          {
+            "ID": "54",
+            "MenuName": "Hospital Master",
+            "SubMenu": null,
+            "Viwe_Index": null
+          },
+          {
+            "ID": "55",
+            "MenuName": "Category Master",
+            "SubMenu": null,
+            "Viwe_Index": null
+          },
+          {
+            "ID": "56",
+            "MenuName": "Sub Category Master",
+            "SubMenu": null,
+            "Viwe_Index": null
+          },
+          {
+            "ID": "57",
+            "MenuName": "Document Detail",
+            "SubMenu": null,
+            "Viwe_Index": null
+          },
+          {
+            "ID": "58",
+            "MenuName": "Document Search",
+            "SubMenu": null,
+            "Viwe_Index": null
+          },
+          {
+            "ID": "59",
+            "MenuName": "Type Master",
+            "SubMenu": null,
+            "Viwe_Index": null
+          }
+        ],
+        "Viwe_Index": null
+      },
+      {
+        "ID": "60",
+        "MenuName": "Insurance",
+        "SubMenu": [
+          {
+            "ID": "61",
+            "MenuName": "Insurance Document Entry",
+            "SubMenu": null,
+            "Viwe_Index": null
+          },
+          {
+            "ID": "62",
+            "MenuName": "Insurance Document Search",
+            "SubMenu": null,
+            "Viwe_Index": null
+          }
+        ],
+        "Viwe_Index": null
+      }
+    ]
+  }
